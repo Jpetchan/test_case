@@ -1,0 +1,16 @@
+[
+  {
+    "id": "TC001",
+    "query":"What is the capital of France?",
+    "context":"France is in Europe",
+    "response":"Paris is the capital of France.",
+    "ground_truth": "Paris"
+  },
+  {
+    "id": "TC002",
+    "query":"What is the capital of Thailand?",
+    "context":"Bangkok is in Thailand`",
+    "response":"Bangkok is the capital of Thailand.",
+    "ground_truth": "Bangkok"
+  }
+]
